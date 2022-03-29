@@ -1,5 +1,5 @@
 <table border="2" width=100%>
-<tr>
+<tr style="background-color:#0000FF">
 <th>Nombre</th><th>Rol</th><th>Fecha de inicio</th><th>Fecha de finalización</th>
 </tr>
 <tr>
