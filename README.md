@@ -15,5 +15,5 @@
 <br/>[Canal de Discord de InkuA](https://discord.gg/ZKBG45va)
 
 ## PROYECTOS
-<br/>[Social Grow](https://github.com/inkua/Comunicacion.wiki.git)
+<br/>[Social Grow](https://github.com/inkua/Comunicacion/wiki/SOCIAL-GROW)
 <br/>[InkuA](https://github.com/inkua/Comunicacion/wiki/INKUA)
