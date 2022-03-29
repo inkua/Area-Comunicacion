@@ -16,4 +16,4 @@
 
 ## PROYECTOS
 <br/>[Social Grow](https://github.com/inkua/Comunicacion.wiki.git)
-<br/>[InkuA](https://github.com/inkua/Comunicacion.wiki.git)
+<br/>[InkuA](https://github.com/inkua/Comunicacion/wiki/INKUA)
