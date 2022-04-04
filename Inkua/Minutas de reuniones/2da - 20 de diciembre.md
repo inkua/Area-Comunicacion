@@ -8,7 +8,7 @@
 * Para poder definir los procesos más adecuados para Inkua en general y cada área en particular, es preciso conocer las necesidades de cada una y los modos en que actualmente se comunican. Por eso, vamos a pedir a las directoras y los directores de cada área que nos envíen, para la semana que viene, un archivo donde brevemente nos comenten: ¿qué cosas comunican actualmente a nivel interno del área y hacia afuera (entre áreas)?, ¿cómo comunican lo que tienen que comunicar?, ¿quiénes se encargan de manejar la comunicación hacia adentro del área y quiénes hacia afuera?, ¿qué necesidades de comunicación específicas tienen?, ¿cómo creen que debe ser el flujo comunicacional interno del área?, ¿cuál creen que es el canal más adecuado para comunicarse internamente (entre los miembros del equipo) y externamente (con otras áreas y departamentos de Inkua)?, entre otras cuestiones.
 * Vamos a confeccionar el pedido a los departamentos en un doc de google y mañana martes 21 enviar la encuesta al resto de las áreas.
 
-Aportado por Romina luego de la reunión:
+**Aportado por Romina luego de la reunión:**
 <br/>A su vez surgieron un par de ideas a tener en cuenta como:
 <br/>_Para el manual de comunicación interna_
 * Definir agentes de comunicación.
