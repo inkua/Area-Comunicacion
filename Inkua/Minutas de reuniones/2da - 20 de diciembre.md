@@ -16,5 +16,5 @@
 * Definir procesos estándar de comunicación intra en inter departamentos (como comunicarlo definiendo procesos, no contenido)
 
 _Junto con:_
-<br/>* El tema de volver a pensar el contenido de los REPORTES.
+* El tema de volver a pensar el contenido de los REPORTES.
 * Y la idea de si deberíamos separar el manual por áreas, ya que cada área se maneja de maneras diferentes..
