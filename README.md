@@ -13,6 +13,7 @@
 <br/>[Canal de chat de InkuA](https://meet.jit.si/ComunicacionInkua)
 <br/>[Drive de Comunicacion](https://drive.google.com/drive/folders/1pZpGkybBHZkrDkmj7KZlguWXThDaoJzc?usp=sharing)
 <br/>[Canal de Discord de InkuA](https://discord.gg/ZKBG45va)
+<br/>[Sala de chat del equipo de Comunicación](https://meet.jit.si/ComunicacionInkua)
 
 ## PROYECTOS
 <br/>[Social Grow](https://github.com/inkua/Comunicacion/wiki/SOCIAL-GROW)
