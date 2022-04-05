@@ -1,0 +1,11 @@
+**PARTICIPANTES**
+<br/>Romina Hernández Maczán, Mauricio Gambasica, Nicolás Darchez, Flavia Alarcón. Lucía Ledesma y Giuliano Contursi
+
+**TEMAS**
+* Social Grow: **Mauricio y Flavia nos compartieron lo que estuvieron viendo acerca de Social Grow** (posteos en redes, artículos del blog, información sobre servicios, etcétera). También hicieron un relevamiento de posibles contribuciones desde Comunicación, como temas a desarrollar en artículos para prensa, posible servicios futuros, etcétera.
+* **Hoy se sumaron al equipo Lucía** (que, al venir de Marketing, ya conoce el proyecto Social Grow) **y Giuliano** (quien estuvo viendo algo el fin de semana y está empezando a meterse en tema).
+* **Creamos en Drive la carpeta Material de consulta** en la que vamos a ir dejando documentos que nos pueden servir para complementar la práctica con teoría sobre los temas que vamos viendo. En principio, Flavia y Giuliano van a compartir documentos sobre publicidad y marketing. Material que no es de lectura obligatoria, pero puede servirnos para ampliar nuestro horizonte de comunicación.
+* **Objetivos para el lunes que viene (7 de febrero)**: inspeccionar más a fondo los textos del blog, con una mirada crítica sobre procedimientos de escritura y temáticas abordadas; revisar el plan de Marketing (el que será aprobado esta semana), para desarrollar una estrategia de prensa ajustada a las necesidades del área; ir desarrollando una lista de posibles temas a abordar desde Prensa; analizar las redes de Social Grow, pensando en un posible asesoramiento al área de Marketing.
+* **El lunes, con todo esto visto, vamos a definir** el proceso para la escritura de artículos, la creación de una base de datos de prensa y los pasos siguientes en torno a Social Grow. También vamos a comenzar más activamente con el desarrollo de las diferentes tareas planteadas.
+* **Con respecto al manual de comunicación institucional,** Romi y Nico lo van a continuar esta semana, para el lunes tenerlo más avanzado y ver si se puede presentar al resto del equipo.
+* Hoy **hubo varios inconvenientes de conexión,** por lo que muchos temas que mencionaron Flavia y Mauricio no pudieron ser abordados por el equipo de forma adecuada. El lunes que viene retomaremos esos temas para incorporarlos en las actividades que definamos.
