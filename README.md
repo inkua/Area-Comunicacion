@@ -1,9 +1,10 @@
 # COMUNICACIÓN
 </p>En este espacio encontrarás todo lo relativo al área Comunicación de InkuA: proyectos, novedades, documentos, guías, manuales, etcétera.
-<br/>En la sección wiki encontrarás información general acerca de los proyectos que llevamos a cabo en Comunicación. Puede entrar y conocer un poco más los aspectos globales de cada uno.
+<br/>En la sección wiki encontrarás información general acerca de los proyectos que llevamos a cabo en Comunicación. Puedes entrar y conocer un poco más sobre los aspectos globales de cada uno.
 
-<br/>Se trata de un espacio en construcción, por lo que cualquier aporte, sugerencia o comentario será bienvenido.
+<br/>Este es un espacio en construcción, por lo que cualquier aporte, sugerencia o comentario será bienvenido.
 <br/>Desde ya, ¡gracias por sumar tu grano de arena!
+
 
 ## RECOMENDACIONES PARA PARTICIPANTES
 * Ingresar dos o tres veces por semana para revisar mensajes o actividades.
